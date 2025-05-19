@@ -117,9 +117,9 @@ Feel free to add your own tested power supplies to this list. The following have
 
 ### Below 12V (limited use case)
 
-- [Apple 20W USB-C Power Adapter](https://www.apple.com/shop/product/MW2H3AM/A/20w-usb-c-power-adapter): this power supply works if and only if you set the USB-C PD module to 9V. 
+- [Apple 20W USB-C Power Adapter](https://www.apple.com/shop/product/MW2H3AM/A/20w-usb-c-power-adapter): this power supply works if and only if you set the USB-C PD module to 9V.
 
-## LICENSE
+## LICENSE
 
 This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
 
