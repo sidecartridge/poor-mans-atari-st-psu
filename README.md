@@ -115,7 +115,7 @@ Feel free to add your own tested power supplies to this list. The following have
 - [Apple 96W USB-C Power Adapter](https://www.apple.com/shop/product/MW2L3AM/A/96w-usb-c-power-adapter): this power supply works well with the power supply and can output 20V. It is more expensive but is a high-quality option.
 - [Apple 30W USB-C Power Adapter](https://www.apple.com/shop/product/MW2G3AM/A/30w-usb-c-power-adapter): this power supply works well with the power supply and can output 15V. It is compact and affordable.
 
-### Below 12V (limited use case)
+### Below 12V (limited use case)
 
 - [Apple 20W USB-C Power Adapter](https://www.apple.com/shop/product/MW2H3AM/A/20w-usb-c-power-adapter): this power supply works if and only if you set the USB-C PD module to 9V. 
 
